@@ -1,6 +1,6 @@
 # Vanitha K Events — React Website
 
-Responsive React + Vite website with a minimal-luxury design, six event-scene images, a 2-second hero carousel, gallery/lightbox, FAQs and contact links.
+Responsive React + Vite event website with a minimal-luxury design, an auto-advancing hero carousel, portfolio gallery/lightbox, service cards, FAQs, contact links, and responsive navigation.
 
 ## Run locally
 
@@ -23,6 +23,8 @@ npm run preview
 - `src/App.jsx` — React sections, slideshow, navigation, gallery, FAQs and contact links.
 - `src/styles.css` — typography, layout, responsive behavior and animation styling.
 - `src/components/ReactBitsInspired.jsx` — lightweight local motion components.
-- `public/images/` — six WebP event-scene assets.
+- Portfolio photo URLs — Unsplash image CDN URLs, used as temporary demonstration photography.
 
-The images are concept images; replace them with approved business photography when available. Verify business details and contact information before launch. WhatsApp quote links do not connect to a backend or lead database.
+## Before business launch
+
+Replace demonstration photos with the business's approved event photography, and verify the business phone, service area, ratings, pricing, and all marketing claims. WhatsApp enquiry links open a prefilled chat; they do not connect to a backend or lead database.
